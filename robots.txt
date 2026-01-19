@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hdtouki.github.io/sitemap.xml
+Sitemap: https://mdhdtouki.github.io/sitemap.xml

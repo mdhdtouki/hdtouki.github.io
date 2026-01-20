@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 In present day shell and tube heat exchanger is the most common type heat exchanger widely used in oil refinery and other large chemical process, because it suits high pressure application. The aim of this work is to design of shell and tube type heat exchanger with helical baffle and comparing with straight baffle. The model contains 7 Copper tubes each having 12.7 mm external diameter and 11.3 mm internal diameter, length 400 mm and inner diameter of steel shell is 101.6 mm and outer diameter 107.6 mm. 7 tubes are hold by 9 helical SS baffle and the helix angle of baffle is varying from 0º to 30º. In this report how the pressure drop and overall heat transfer coefficient varies due to different helix angle has been studied when the flow rate remain same. The flow pattern in the shell side of the heat exchanger with continuous helical baffles are forced to be rotational and helical due to the geometry of the continuous helical baffles, which results in a significant increase in heat transfer coefficient per unit pressure drop in the heat exchanger.
-<b><u>DOI:</u></b><a href="http://dx.doi.org/10.13140/RG.2.2.21305.58723"> 10.13140/RG.2.2.21305.58723</a> <br><br>
+<br><br><b><u>DOI:</u></b><a href="http://dx.doi.org/10.13140/RG.2.2.21305.58723"> 10.13140/RG.2.2.21305.58723</a> <br><br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/he-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -21,6 +21,7 @@ In present day shell and tube heat exchanger is the most common type heat exchan
         {% include figure.liquid loading="eager" path="assets/img/he-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<br>
 <center><h4><b><u>Objectives:</u></b></h4></center>
 
 <ul>
@@ -30,7 +31,7 @@ In present day shell and tube heat exchanger is the most common type heat exchan
 </ul>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/drone.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/heat-exchanger.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -5,7 +5,7 @@ description: Shell and Tube Heat Exchanger with Continuous Helical Buffle
 img: assets/img/heat-exchanger.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 In present day shell and tube heat exchanger is the most common type heat exchanger widely used in oil refinery and other large chemical process, because it suits high pressure application. The aim of this work is to design of shell and tube type heat exchanger with helical baffle and comparing with straight baffle. The model contains 7 Copper tubes each having 12.7 mm external diameter and 11.3 mm internal diameter, length 400 mm and inner diameter of steel shell is 101.6 mm and outer diameter 107.6 mm. 7 tubes are hold by 9 helical SS baffle and the helix angle of baffle is varying from 0º to 30º. In this report how the pressure drop and overall heat transfer coefficient varies due to different helix angle has been studied when the flow rate remain same. The flow pattern in the shell side of the heat exchanger with continuous helical baffles are forced to be rotational and helical due to the geometry of the continuous helical baffles, which results in a significant increase in heat transfer coefficient per unit pressure drop in the heat exchanger.

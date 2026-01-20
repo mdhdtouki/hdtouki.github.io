@@ -406,6 +406,11 @@ ninja.data = [{
           description: "SMART FARMING WITH UAV SYSTEM (Agricultural Field Monitoring &amp; Animal Detection with Alarming System)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/drone/";
+            },},{id: "projects-heat-exchanger",
+          title: 'Heat Exchanger',
+          description: "Shell and Tube Heat Exchanger with Continuous Helical Buffle",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/heat-exchanger/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

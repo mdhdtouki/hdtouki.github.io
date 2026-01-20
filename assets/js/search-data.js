@@ -447,7 +447,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/mdhdtouki/", "_blank");
+          window.open("https://orcid.org/0009-0000-7816-6076", "_blank");
         },
       },{
       id: 'light-theme',

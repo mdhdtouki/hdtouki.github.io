@@ -21,11 +21,11 @@ In sustainable agriculture requires the fast information about the condition of 
 
 <center><h4><b><u>Objectives:</u></b></h4></center>
 
-➢ Protect the fields from animals, birds and other vulnerable lives by using automated alarming system.
-
-➢ Inspect the crop health condition.
-
-➢ Monitor the field with ESP-32 CAM module and send real time video.
+<ul>
+  <li>Protect the fields from animals, birds and other vulnerable lives by using automated alarming system.</li>
+  <li>Inspect the crop health condition.</li>
+  <li>Monitor the field with ESP-32 CAM module and send real time video.</li>
+</ul>
 
 <center><h4><b><u>Working Principle:</u></b></h4></center>
 
@@ -33,7 +33,7 @@ The drone is balanced by MPU-6050 Gyroscope. The camera shoots real time video a
 
 <center><h4><b><u>Video:</u></b></h4></center>
 
-<iframe
+<center><iframe
   width="560"
   height="315"
   src="https://www.youtube.com/embed/G87tLOT3BSs"
@@ -42,3 +42,4 @@ The drone is balanced by MPU-6050 Gyroscope. The camera shoots real time video a
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+</center>

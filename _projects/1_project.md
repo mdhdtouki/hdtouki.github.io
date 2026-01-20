@@ -19,7 +19,7 @@ In sustainable agriculture requires the fast information about the condition of 
     Fully assembled drone ready to fly.
 </div>
 
-<center><h3><b>Objectives:</b></h3></center>
+<center><h4><b><u>Objectives:</u></b></h4></center>
 
 ➢ Protect the fields from animals, birds and other vulnerable lives by using automated alarming system.
 
@@ -27,17 +27,17 @@ In sustainable agriculture requires the fast information about the condition of 
 
 ➢ Monitor the field with ESP-32 CAM module and send real time video.
 
-<center><h3><b>Working Principle:</b></h3></center>
+<center><h4><b><u>Working Principle:</u></b></h4></center>
 
 The drone is balanced by MPU-6050 Gyroscope. The camera shoots real time video and send it to a Laptop using Wi-Fi technology. Then the video is processed by python program in the laptop. If any animals, birds is detected, the alarming system is activated automatically.
 
-<center><h3><b>Video:</b></h3></center>
+<center><h4><b><u>Video:</u></b></h4></center>
 
 <iframe
   width="560"
   height="315"
-  src="https://youtu.be/G87tLOT3BSs"
-  title="YouTube video player"
+  src="https://www.youtube.com/embed/G87tLOT3BSs"
+  title="ME 366 Project (Arduino based quadcopter with agricultural application)"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>

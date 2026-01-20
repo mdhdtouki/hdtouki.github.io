@@ -405,7 +405,7 @@ ninja.data = [{
           title: 'Drone',
           description: "SMART FARMING WITH UAV SYSTEM (Agricultural Field Monitoring &amp; Animal Detection with Alarming System)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/drone/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

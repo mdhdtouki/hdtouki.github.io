@@ -13,15 +13,12 @@
       institution: The George Washington University
       year: 2025 - Present
       location: Washington D.C., USA
-      description:
-        - Focusing on polyamide membrane fouling in molecular dynamics.
+ 
     - title: B.Sc in Mechanical Engineering
       institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
       year: 2019 - 2024
-      description:
-        - Thesis - Degradation and mechanical behaviour of PCL and its blends with PLA and PGA.
-
-- title: Work Experience
+   
+- title: Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant (GRA)

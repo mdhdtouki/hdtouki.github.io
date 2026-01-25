@@ -56,7 +56,7 @@
       - I did research on the degradation behaviour and frictional behaviour of nano composites.
 
 - title: Awards
-  type: time-table
+  type: time_table
   contents:
     - title: Deans list award
         year: 2021

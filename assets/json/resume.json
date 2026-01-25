@@ -23,13 +23,38 @@
   },
   "work": [
     {
-      "name": "Bangladesh University of Engineering and Technology, Dhaka - 1000, Bangladesh",
+      "name": "The George Washington University",
+      "position": "Graduate Research Assistant",
+      "location": "Washington D.C., USA",
+      "startDate": "2025-09-01",
+      "endDate": "Present",
+      "summary": "I am working with polyamide membrane fouling.",
+      "highlights": ["Molecular Dynamics (MD)", "Membrane fouling"]
+    },
+    {
+      "name": "NRECA International",
+      "position": "Assistant Engineer",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-21",
+      "summary": "I was an AutoCAD specialist and did many drawings related to electric transmission.",
+    },
+        {
+      "name": "Bangladesh University of Engineering and Technology",
+      "position": "Project Office Manager, OBE Cell, Dept. of ME",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2025-01-20",
+      "endDate": "2025-04-30",
+      "summary": "I worked on the OBE Self Assessment Report (SAR) and infrastructure development of the department for OBE accreditation.",
+    },
+            {
+      "name": "Bangladesh University of Engineering and Technology",
       "position": "Research Assistant",
-      "url": "https://mdhdtouki.github.io",
+      "location": "Dhaka, Bangladesh",
       "startDate": "2024-08-01",
       "endDate": "2024-12-01",
       "summary": "I did research on the degradation behaviour and frictional behaviour of nano composites.",
-      "highlights": ["Molecular Dynamics (MD), Polemers, Nano composites"]
+      "highlights": ["Molecular Dynamics (MD)", "Polemers", "Nano composites"]
     }
   ],
   "volunteer": [

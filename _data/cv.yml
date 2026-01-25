@@ -29,7 +29,7 @@
   contents:
     - title: Graduate Research Assistant (GRA)
       institution: Dept. of MAE, The George Washington University
-      year: 2025-Present
+      year: Sept 2025-Present
       location: Washington D.C., USA
       description:
         - Focusing on polyamide membrane fouling in molecular dynamics.
@@ -54,4 +54,16 @@
       location: Dhaka, Bangladesh
       description:
       - I did research on the degradation behaviour and frictional behaviour of nano composites.
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: Deans list award
+        year: 2021
+        awarder: Bangladesh University of Engineering and Technology
+        Summary: Awarded for maintaing honors GPA for an academic year
+
+
+
+
 

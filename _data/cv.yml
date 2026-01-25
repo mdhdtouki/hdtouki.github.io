@@ -3,8 +3,12 @@
   contents:
     - name: Full Name
       value: Hasan Douha Touki
-    - name: Languages
-      value: English and Bangla
+    - name: Position
+      value: Graduate Research Assistant (GRA)
+    - name: Office
+      value: 3390 SEH, 800 22nd St, NW Washington, DC 20052
+    - name: Email
+      value: h.touki@gwu.edu
 
 - title: Education
   type: time_table
@@ -17,6 +21,8 @@
     - title: B.Sc in Mechanical Engineering
       institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
       year: 2019-2024
+      location: Dhaka, Bangladesh
+
    
 - title: Experience
   type: time_table
@@ -44,7 +50,7 @@
 
     - title: Research Assistant
       institution: Dept. of ME, Bangladesh University of Engineering and Technology
-      year: Aug 2025-Jan 2025
+      year: Aug 2024-Jan 2025
       location: Dhaka, Bangladesh
       description:
       - I did research on the degradation behaviour and frictional behaviour of nano composites.

@@ -4,19 +4,20 @@
     - name: Full Name
       value: Hasan Douha Touki
     - name: Languages
-      value: English, Bangla
+      value: English and Bangla
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Mechanical and Aerospace Engineering
       institution: The George Washington University, D.C., USA
-      year: 2025-2030
+      year: 2025 - Present
+      location: Washington D.C., USA
       description:
         - Focusing on polyamide membrane fouling in molecular dynamics.
     - title: B.Sc in Mechanical Engineering
       institution: Bangladesh University of Engineering and Technology, Dhaka, Banlgadesh
-      year: 2019-2024
+      year: 2019 - 2024
       description:
         - Thesis: Degradation and mechanical behaviour of PCL and its blends with PLA and PGA.
 
